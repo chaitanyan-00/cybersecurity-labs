@@ -34,14 +34,14 @@ This repository contains lab reports and practical assessments covering essentia
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Chaitanya N**  
 _B.Sc. (Hons) Computer Science | RV University_  
 
 ---
 
-## 📌 Note
+## Note
 
 These reports are academic lab submissions designed to demonstrate knowledge of cybersecurity tools and techniques. They are not intended for malicious use.
 
